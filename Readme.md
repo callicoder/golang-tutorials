@@ -9,3 +9,5 @@
 4. [Working with Constants in Golang](https://www.callicoder.com/golang-typed-untyped-constants/)
 
 5. [Golang Control Flow Statements: If, Switch and For](https://www.callicoder.com/golang-control-flow/)
+
+6. [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
