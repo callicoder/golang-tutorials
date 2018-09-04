@@ -10,8 +10,12 @@
 
 5. [Golang Control Flow Statements: If, Switch and For](https://www.callicoder.com/golang-control-flow/)
 
+6. [Introduction to Functions in Go](https://www.callicoder.com/golang-functions/)
+
 6. [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
 
 7. [Introduction to Slices in Golang](https://www.callicoder.com/golang-slices/)
 
 8. [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
+
+9. [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
