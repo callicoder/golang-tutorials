@@ -3,10 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	var a = [7]string{"Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"}
+	a := [7]string{"Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"}
 
-	var slice1 = a[1:]
-	var slice2 = a[3:]
+	slice1 := a[1:]
+	slice2 := a[3:]
 
 	fmt.Println("------- Before Modifications -------")
 	fmt.Println("a  = ", a)

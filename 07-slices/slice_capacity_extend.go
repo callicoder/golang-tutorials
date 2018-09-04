@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var s = []int{10, 20, 30, 40, 50, 60, 70, 80, 90, 100}
+	s := []int{10, 20, 30, 40, 50, 60, 70, 80, 90, 100}
 	fmt.Println("Original Slice")
 	fmt.Printf("s = %v, len = %d, cap = %d\n", s, len(s), cap(s))
 

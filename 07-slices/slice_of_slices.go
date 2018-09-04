@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var s = [][]string{
+	s := [][]string{
 		{"James Smith", "United States"},
 		{"Maria Gracia", "England"},
 		{"Sarah Johnson", "France"},

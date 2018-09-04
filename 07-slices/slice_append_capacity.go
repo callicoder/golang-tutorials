@@ -3,8 +3,10 @@ package main
 import "fmt"
 
 func main() {
-	var slice1 = []string{"C", "C++", "Java"}
-	var slice2 = append(slice1, "Python", "Ruby", "Go")
+	slice1 := make([]string, 3, 10)
+	copy(slice1, []string{"C", "C++", "Java"})
+
+	slice2 := append(slice1, "Python", "Ruby", "Go")
 
 	fmt.Printf("slice1 = %v, len = %d, cap = %d\n", slice1, len(slice1), cap(slice1))
 	fmt.Printf("slice2 = %v, len = %d, cap = %d\n", slice2, len(slice2), cap(slice2))
