@@ -1,4 +1,5 @@
 package main
+
 import "fmt"
 
 func main() {
@@ -15,5 +16,8 @@ func main() {
 	var myHexNumber = 0xFF  // Use prefix '0x' or '0X' for declaring hexadecimal numbers
 	var myOctalNumber = 034 // Use prefix '0' for declaring octal numbers
 
-	fmt.Printf("%d, %d, %d, %#x, %#o\n", myInt8, myInt, myUint, myHexNumber, myOctalNumber)
+	var myFloat32 float32 = 4.5
+	var myFloat = 9.12 // // Type inferred as `float64`
+
+	fmt.Printf("%d, %d, %d, %#x, %#o %f %f\n", myInt8, myInt, myUint, myHexNumber, myOctalNumber, myFloat32, myFloat)
 }
