@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// You can delete a key from a map using the built-in delete() function
 	var fileExtensions = map[string]string{
 		"Python": ".py",
 		"C++":    ".cpp",

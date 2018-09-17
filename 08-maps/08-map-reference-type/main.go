@@ -3,6 +3,10 @@ package main
 import "fmt"
 
 func main() {
+	/*
+		Maps are reference types. When you assign a map to another variable, they both refer to the same underlying data structure.
+		Therefore changes done by one variable will be visible to the other
+	*/
 	var m1 = map[string]int{
 		"one":   1,
 		"two":   2,
