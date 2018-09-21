@@ -17,7 +17,7 @@ func main() {
 		weightInKg: 1920,
 	}
 
-	// Accessing struct fields using dot notation
+	// Accessing struct fields using the dot operator
 	fmt.Println("Car name: ", c.name)
 	fmt.Println("Car color: ", c.color)
 

@@ -13,7 +13,7 @@ func main() {
 	// instance of student struct type
 	s := Student{11, "Jack"}
 
-	// Pointer to a student struct
+	// Pointer to the student struct
 	ps := &s
 	fmt.Println(ps)
 

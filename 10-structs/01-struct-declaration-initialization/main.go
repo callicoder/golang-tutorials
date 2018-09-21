@@ -12,11 +12,15 @@ type Person struct {
 }
 
 func main() {
-	// Creating an instance of the 'person' struct type
+	// Declaring a variable of a `struct` type
+	var p Person // // All the struct fields are initialized with their zero value
+	fmt.Println(p)
+
+	// Declaring and initializing a struct using a struct literal
 	p1 := Person{"Rajeev", "Singh", 26}
 	fmt.Println("Person1: ", p1)
 
-	// Naming fields while initializing the struct
+	// Naming fields while initializing a struct
 	p2 := Person{
 		firstName: "John",
 		lastName:  "Snow",
@@ -24,9 +28,7 @@ func main() {
 	}
 	fmt.Println("Person2: ", p2)
 
-	// Uninitialized fields are assigned their zero-value
-	p3 := Person{
-		firstName: "Robert",
-	}
+	// Uninitialized fields are set to their corresponding zero-value
+	p3 := Person{firstName: "Robert"}
 	fmt.Println("Person3: ", p3)
 }

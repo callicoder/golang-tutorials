@@ -19,3 +19,5 @@
 8. [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
 
 9. [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
+
+9. [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)

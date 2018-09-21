@@ -16,14 +16,17 @@ type Customer struct {
 }
 
 func main() {
-	c := Customer{name: "Rajeev Singh", age: 25}
-	c.address = Address{
-		houseNo: "747",
-		street:  "Golf View Road",
-		city:    "Seattle",
-		state:   "Washington",
-		country: "United States",
-		zipCode: 98101,
+	c := Customer{
+		name: "Rajeev Singh",
+		age:  25,
+		address: Address{
+			houseNo: "747",
+			street:  "Golf View Road",
+			city:    "Seattle",
+			state:   "Washington",
+			country: "United States",
+			zipCode: 98101,
+		},
 	}
 
 	fmt.Println("Customer: ", c)
