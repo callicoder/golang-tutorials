@@ -1,5 +1,7 @@
 ## Golang Tutorials
 
+0. [Golang Installation, Setup, GOPATH, and Go Workspace](https://www.callicoder.com/golang-installation-setup-gopath-workspace/)
+
 1. [Writing your first Go program](https://www.callicoder.com/golang-introduction-hello-world/)
 
 2. [Golang Variables, Zero Values, and Type inference](https://www.callicoder.com/golang-variables-zero-values-type-inference/)
