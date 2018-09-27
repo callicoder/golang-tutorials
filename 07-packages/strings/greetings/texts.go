@@ -2,9 +2,11 @@
 package greetings
 
 // Exported
-const WelcomeText = "Hello, World to Golang"
-const MorningText = "Good Morning"
-const EveningText = "Good Evening"
+const  (
+	WelcomeText = "Hello, World to Golang"
+    MorningText = "Good Morning"
+	EveningText = "Good Evening"
+)
 
 // Not exported (only visible inside the `greetings` package)
 var loremIpsumText = `Lorem ipsum dolor sit amet, consectetur adipiscing elit, 

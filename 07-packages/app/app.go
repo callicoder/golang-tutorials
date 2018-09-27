@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/callicoder/golang-tutorials/07-packages/numbers"
-	"github.com/callicoder/golang-tutorials/07-packages/strings"
+	"github.com/callicoder/golang-tutorials/07-packages/strings"	
 	"github.com/callicoder/golang-tutorials/07-packages/strings/greetings" // Importing a nested package
 	str "strings"	// Package Alias
 )

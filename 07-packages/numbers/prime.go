@@ -9,6 +9,5 @@ func IsPrime(num int) bool {
             return false
         }
 	}
-	
     return num > 1
 }
