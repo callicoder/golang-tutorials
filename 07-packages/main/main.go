@@ -10,7 +10,7 @@ import (
 func main() {
 	// Finding the Max of two numbers
 	fmt.Println(math.Max(73.15, 92.46))
-	
+		
 	// Calculate the square root of a number
 	fmt.Println(math.Sqrt(225))
 
