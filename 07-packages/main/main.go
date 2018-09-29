@@ -1,5 +1,7 @@
+// Package declaration
 package main
 
+// Importing Packages
 import (
 	"fmt"
 	"time"

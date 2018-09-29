@@ -14,12 +14,14 @@
 
 6. [Introduction to Functions in Go](https://www.callicoder.com/golang-functions/)
 
-7. [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
+7. [A beginners guide to Packages in Golang](https://www.callicoder.com/golang-packages/)
 
-8. [Introduction to Slices in Golang](https://www.callicoder.com/golang-slices/)
+8. [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
 
-9. [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
+9. [Introduction to Slices in Golang](https://www.callicoder.com/golang-slices/)
 
-10. [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
+10. [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
 
-11. [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)
+11. [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
+
+12. [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)
