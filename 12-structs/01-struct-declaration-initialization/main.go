@@ -6,9 +6,9 @@ import (
 
 // Defining a struct type
 type Person struct {
-	firstName string
-	lastName  string
-	age       int
+	FirstName string
+	LastName  string
+	Age       int
 }
 
 func main() {
@@ -22,13 +22,13 @@ func main() {
 
 	// Naming fields while initializing a struct
 	p2 := Person{
-		firstName: "John",
-		lastName:  "Snow",
-		age:       45,
+		FirstName: "John",
+		LastName:  "Snow",
+		Age:       45,
 	}
 	fmt.Println("Person2: ", p2)
 
 	// Uninitialized fields are set to their corresponding zero-value
-	p3 := Person{firstName: "Robert"}
+	p3 := Person{FirstName: "Robert"}
 	fmt.Println("Person3: ", p3)
 }

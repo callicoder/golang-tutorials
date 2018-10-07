@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 type Employee struct {
-	id   int
-	name string
+	Id   int
+	Name string
 }
 
 func main() {
@@ -12,8 +12,8 @@ func main() {
 	// It allocates enough memory to fit a value of the given struct type, and returns a pointer to it
 	pEmp := new(Employee)
 
-	pEmp.id = 1000
-	pEmp.name = "Sachin"
+	pEmp.Id = 1000
+	pEmp.Name = "Sachin"
 
 	fmt.Println(pEmp)
 }

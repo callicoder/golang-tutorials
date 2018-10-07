@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 type Point struct {
-	x float64
-	y float64
+	X float64
+	Y float64
 }
 
 func main() {
@@ -14,7 +14,7 @@ func main() {
 	fmt.Println("p1 = ", p1)
 	fmt.Println("p2 = ", p2)
 
-	p2.x = 15
+	p2.X = 15
 	fmt.Println("\nAfter modifying p2:")
 	fmt.Println("p1 = ", p1)
 	fmt.Println("p2 = ", p2)

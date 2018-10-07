@@ -5,23 +5,23 @@ import (
 )
 
 type Car struct {
-	name, model, color string
-	weightInKg         float64
+	Name, Model, Color string
+	WeightInKg         float64
 }
 
 func main() {
 	c := Car{
-		name:       "Ferrari",
-		model:      "GTC4",
-		color:      "Red",
-		weightInKg: 1920,
+		Name:       "Ferrari",
+		Model:      "GTC4",
+		Color:      "Red",
+		WeightInKg: 1920,
 	}
 
 	// Accessing struct fields using the dot operator
-	fmt.Println("Car name: ", c.name)
-	fmt.Println("Car color: ", c.color)
+	fmt.Println("Car Name: ", c.Name)
+	fmt.Println("Car Color: ", c.Color)
 
 	// Assigning a new value to a struct field
-	c.color = "Black"
+	c.Color = "Black"
 	fmt.Println("Car: ", c)
 }

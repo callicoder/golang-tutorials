@@ -5,8 +5,8 @@ import (
 )
 
 type Student struct {
-	rollNumber int
-	name       string
+	RollNumber int
+	Name       string
 }
 
 func main() {
@@ -18,9 +18,9 @@ func main() {
 	fmt.Println(ps)
 
 	// Accessing struct fields via pointer
-	fmt.Println((*ps).name)
-	fmt.Println(ps.name) // Same as above: No need to explicitly dereference the pointer
+	fmt.Println((*ps).Name)
+	fmt.Println(ps.Name) // Same as above: No need to explicitly dereference the pointer
 
-	ps.rollNumber = 31
+	ps.RollNumber = 31
 	fmt.Println(ps)
 }
