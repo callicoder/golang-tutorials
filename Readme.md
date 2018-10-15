@@ -25,5 +25,3 @@
 11. [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
 
 12. [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)
-
-13. [Golang Methods Tutorial with Examples](https://www.callicoder.com/golang-methods/)
