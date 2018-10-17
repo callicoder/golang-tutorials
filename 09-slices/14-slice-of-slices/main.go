@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	s := [][]string{
-		{"James Smith", "United States"},
-		{"Maria Gracia", "England"},
-		{"Sarah Johnson", "France"},
+		{"India", "China"},
+		{"USA", "Canada"},
+		{"Switzerland", "Germany"},
 	}
 
 	fmt.Println("Slice s = ", s)

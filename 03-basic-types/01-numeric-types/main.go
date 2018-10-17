@@ -17,7 +17,7 @@ func main() {
 	var myOctalNumber = 034 // Use prefix '0' for declaring octal numbers
 
 	var myFloat32 float32 = 4.5
-	var myFloat = 9.12 // // Type inferred as `float64`
+	var myFloat = 9.12 // // Type inferred as `float64` (the default type for floating-point numbers)
 
 	fmt.Printf("%d, %d, %d, %#x, %#o %f %f\n", myInt8, myInt, myUint, myHexNumber, myOctalNumber, myFloat32, myFloat)
 }
