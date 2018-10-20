@@ -1,27 +1,43 @@
 ## Golang Tutorials
 
-0. [Golang Installation, Setup, GOPATH, and Go Workspace](https://www.callicoder.com/golang-installation-setup-gopath-workspace/)
+### Getting Started
 
-1. [Writing your first Go program](https://www.callicoder.com/golang-introduction-hello-world/)
++ [Golang Installation, Setup, GOPATH, and Go Workspace](https://www.callicoder.com/golang-installation-setup-gopath-workspace/)
 
-2. [Golang Variables, Zero Values, and Type inference](https://www.callicoder.com/golang-variables-zero-values-type-inference/)
++ [Writing your first Go program](https://www.callicoder.com/golang-introduction-hello-world/)
 
-3. [Golang Basic Types, Operators, and Type Conversion](https://www.callicoder.com/golang-basic-types-operators-type-conversion/)
+### Variables, Constants and Data Types
 
-4. [Working with Constants in Golang](https://www.callicoder.com/golang-typed-untyped-constants/)
++ [Golang Variables, Zero Values, and Type inference](https://www.callicoder.com/golang-variables-zero-values-type-inference/)
 
-5. [Golang Control Flow Statements: If, Switch and For](https://www.callicoder.com/golang-control-flow/)
++ [Golang Basic Types, Operators, and Type Conversion](https://www.callicoder.com/golang-basic-types-operators-type-conversion/)
 
-6. [Introduction to Functions in Go](https://www.callicoder.com/golang-functions/)
++ [Working with Constants in Golang](https://www.callicoder.com/golang-typed-untyped-constants/)
 
-7. [A beginners guide to Packages in Golang](https://www.callicoder.com/golang-packages/)
+### Control Structures
 
-8. [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
++ [Golang Control Flow Statements: If, Switch and For](https://www.callicoder.com/golang-control-flow/)
 
-9. [Introduction to Slices in Golang](https://www.callicoder.com/golang-slices/)
+### Functions and Packages
 
-10. [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
++ [Introduction to Functions in Go](https://www.callicoder.com/golang-functions/)
 
-11. [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
++ [A beginners guide to Packages in Golang](https://www.callicoder.com/golang-packages/)
 
-12. [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)
+### Collection Types
+
++ [Working with Arrays in Golang](https://www.callicoder.com/golang-arrays/)
+
++ [Introduction to Slices in Golang](https://www.callicoder.com/golang-slices/)
+
++ [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
+
+### Pointers and Structs
+
++ [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
+
++ [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)
+
+### Methods and Interfaces
+
++ [Golang Methods Tutorial with Examples](https://www.callicoder.com/golang-methods-tutorial/)
