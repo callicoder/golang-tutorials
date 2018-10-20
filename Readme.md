@@ -6,7 +6,8 @@
 
 + [Writing your first Go program](https://www.callicoder.com/golang-introduction-hello-world/)
 
-### Variables, Constants and Data Types
+
+### Variables, Constants, and Data Types
 
 + [Golang Variables, Zero Values, and Type inference](https://www.callicoder.com/golang-variables-zero-values-type-inference/)
 
@@ -14,15 +15,18 @@
 
 + [Working with Constants in Golang](https://www.callicoder.com/golang-typed-untyped-constants/)
 
+
 ### Control Structures
 
 + [Golang Control Flow Statements: If, Switch and For](https://www.callicoder.com/golang-control-flow/)
+
 
 ### Functions and Packages
 
 + [Introduction to Functions in Go](https://www.callicoder.com/golang-functions/)
 
 + [A beginners guide to Packages in Golang](https://www.callicoder.com/golang-packages/)
+
 
 ### Collection Types
 
@@ -32,11 +36,13 @@
 
 + [Golang Maps by Example](https://www.callicoder.com/golang-maps/)
 
+
 ### Pointers and Structs
 
 + [Playing with Pointers in Golang](https://www.callicoder.com/golang-pointers/)
 
 + [Golang Structs Tutorial with Examples](https://www.callicoder.com/golang-structs/)
+
 
 ### Methods and Interfaces
 
