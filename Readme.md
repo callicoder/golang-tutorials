@@ -6,7 +6,6 @@
 
 + [Writing your first Go program](https://www.callicoder.com/golang-introduction-hello-world/)
 
-&nbsp;
 
 ### Variables, Constants, and Data Types
 
