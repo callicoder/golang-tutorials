@@ -47,3 +47,5 @@
 ### Methods and Interfaces
 
 + [Golang Methods Tutorial with Examples](https://www.callicoder.com/golang-methods-tutorial/)
+
++ [Golang Interfaces Tutorial with Examples](https://www.callicoder.com/golang-interfaces/)
