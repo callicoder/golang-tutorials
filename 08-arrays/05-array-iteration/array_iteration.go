@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	// Iterating over and Array and printing its elements
-	names := [3]string{"Mark Zuckerberg", "Bill Gates", "Larrt Page"}
+	names := [3]string{"Mark Zuckerberg", "Bill Gates", "Larry Page"}
 
 	for i := 0; i < len(names); i++ {
 		fmt.Println(names[i])
