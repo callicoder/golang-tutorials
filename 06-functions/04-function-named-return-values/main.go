@@ -8,7 +8,7 @@ import (
 func getNamedStockPriceChange(prevPrice, currentPrice float64) (change, percentChange float64) {
 	change = currentPrice - prevPrice
 	percentChange = (change / prevPrice) * 100
-	return change, percentChange
+	return
 }
 
 func main() {
