@@ -21,7 +21,7 @@ func main() {
 	//================================
 
 	// Short variable declaration syntax
-	name := "Rajeev Singh"
+	name := "Justin Jones"
 	age, salary, isProgrammer := 55, 50000.0, true
 
 	fmt.Println(name, age, salary, isProgrammer)
