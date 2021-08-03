@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	// Type inference
-	var name = "Rajeev Singh" // Type declaration is optional here.
+	var name = "Jutin Jones" // Type declaration is optional here.
 	fmt.Printf("Variable 'name' is of type %T\n", name)
 
 	//================================
